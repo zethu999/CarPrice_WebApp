@@ -9,6 +9,18 @@
 3. Preparing Final DataFrame
 4. Model Building, Testing and Evaluations
 5. Creating web app and Hosting
+
+### Libraries used
+- Numpy
+- Pandas
+- sci-kit learn
+- pickle
+- xgboost
+- streamlit
+### Environments
+- Anaconda 
+- Jupyter notebook
+- spyder
 <hr>
 
 ## Data set collection
